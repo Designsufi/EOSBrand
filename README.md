@@ -9,8 +9,11 @@ Logo files for [EOS](http://eos.io)
 
 ## Main logo
 
-![](/logo/eosio-logo-white-transparent.svg)
-![](/logo/eosio-logo-black-transparent.svg)
+![](/logo/Chestahedron-Black.svg)
+![](/logo/Chestahedron-White.svg)
+
+![](/logo/Chestahedron-Fat-Black.svg)
+![](/logo/Chestahedron-Fat-White.svg)
 
 ## Fat logo
 ## EOS Software logo
